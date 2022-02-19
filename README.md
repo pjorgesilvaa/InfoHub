@@ -16,7 +16,7 @@ This means that the list will be constantly updated as I find more tools and int
     - [Frontend Mentor](#frontend-mentor)
 - [Backend](#backend)
  - [Javascript Environments](#javascript-environments)
-  - [NestJS](#nestjs)
+  - [NestJS](#nestjs-favorite)
   - [NEXT JS](#next-js)
 
 ## FrontEnd
@@ -59,7 +59,7 @@ This means that the list will be constantly updated as I find more tools and int
 
 ### Node.js Frameworks
 
-#### NestJS
+#### NestJS (Favorite)
 
 <img src='./assets/nestjs.jpg' width='1000'>
 
