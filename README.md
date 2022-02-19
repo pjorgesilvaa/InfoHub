@@ -12,7 +12,7 @@ This means that the list will be constantly updated as I find more tools and int
     - [Angular](#angular-favorite)
     - [Vue](#vue)
     - [React](#react)
-  - [Tools](#tools)
+  - [Tools](#%EF%B8%8Ftools%EF%B8%8F)
     - [Frontend Mentor](#frontend-mentor)
 - [Backend](#backend)
  - [Javascript Environments](#javascript-environments)
