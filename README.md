@@ -18,6 +18,7 @@ This means that the list will be constantly updated as I find more tools and int
  - [Javascript Environments](#javascript-environments)
   - [NestJS](#nestjs-favorite)
   - [NEXT JS](#next-js)
+- [Native](#native)
 
 ## FrontEnd
 
@@ -70,3 +71,19 @@ This means that the list will be constantly updated as I find more tools and int
 <img src='./assets/nextjs.png' width='1000'>
 
 [Next.js](https://nextjs.org/) is an open-source development framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites. React documentation mentions Next.js among "Recommended Toolchains" advising it to developers as a solution when "Building a server-rendered website with Node.js".[4] Traditional React apps render all their content in the client-side browser, Next.js is used to extend this functionality to include applications rendered on the server side.
+
+## Native
+
+### Frontend Framework Toolkits
+
+#### Electron
+
+<img src='./assets/electron.jpg' width='1000'>
+
+[Electron](https://www.electronjs.org/) (formerly known as Atom Shell) is a free and open-source software framework developed and maintained by GitHub. It allows for the development of desktop GUI applications using web technologies: it combines the Chromium rendering engine and the Node.js runtime.
+
+#### Tauri
+
+<img src='./assets/tauri.png' width='1000'>
+
+[Tauri](https://tauri.studio/) is a toolkit that helps developers make applications for the major desktop platforms - using virtually any frontend framework in existence. The core is built with Rust, and the CLI leverages Node.js making Tauri a genuinely polyglot approach to creating and maintaining great apps.
